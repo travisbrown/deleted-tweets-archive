@@ -77,4 +77,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 [Deleted tweets for KatieDaviscourt](KatieDaviscourt-deleted.md)
 
+[Deleted tweets for ryanafournier](ryanafournier-deleted.md)
+
+
 
