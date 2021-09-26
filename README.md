@@ -43,6 +43,17 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 [Deleted tweets for ggreenwald](https://gist.github.com/salcoast/39afab23c9a003132980a60e8a9def16)
 
+[Deleted tweets for RAMRANTS](RAMRANTS-deleted.md)
+
+[Deleted tweets for VaushV](VaushV-deleted.md)
+
+
+
+
+
+
+
+
 
 
 
