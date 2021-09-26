@@ -39,9 +39,9 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 ## Current accounts in this archive
 
-726 Deleted tweets for [MrAndyNgo](https://gist.github.com/salcoast/6a2adb344534ef308a29d3d5d91cb2c8)
+726 Deleted tweets for [MrAndyNgo](mrandyngo.md)
 
-253 Deleted tweets for [ggreenwald](https://gist.github.com/salcoast/39afab23c9a003132980a60e8a9def16)
+253 Deleted tweets for [ggreenwald](ggreenwald.md)
 
 11 Deleted tweets for [Timcast](timcast-deleted.md)
 
@@ -63,9 +63,9 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 4 Deleted tweets for [Theanim24326713](theanim24326713-deleted.md)
 
-50 Deleted tweets for [ChandlerPappas](https://gist.github.com/salcoast/1ec7427e91aa040c3b0816b8069888eb)
+50 Deleted tweets for [ChandlerPappas](chandlerpappas.md)
 
-23 Deleted tweets for [tooze_dan](https://gist.github.com/salcoast/167ef4190e37658174d1f133ea9dd611)
+23 Deleted tweets for [tooze_dan](tooze_dan.md)
 
 3 Deleted tweets for [emperorinvictus](emperorinvictus-deleted.md)
 
