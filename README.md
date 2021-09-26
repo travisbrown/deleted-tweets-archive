@@ -67,8 +67,11 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 [Deleted tweets for tooze_dan](https://gist.github.com/salcoast/167ef4190e37658174d1f133ea9dd611)
 
-[Deleted tweets for emperorinvictus-deleted.md](emperorinvictus-deleted.md)
+[Deleted tweets for emperorinvictus](emperorinvictus-deleted.md)
 
+[Deleted tweets for richardbspencer](richardbspencer-deleted.md)
+
+[Deleted tweets for SchoepJeff](SchoepJeff-deleted.md)
 
 
 
