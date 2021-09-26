@@ -121,3 +121,14 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 2293 Deleted tweets for [Lauren_Southern](lauren_southern-deleted.md)
 
+235 Deleted tweets for [carymarules](carymarules-deleted.md)
+ 
+65 Deleted tweets for [irmahinojosa_](irmahinojosa_-deleted.md)
+
+5281 Deleted tweets for [JacobAWohl](jacobawohl-deleted.md)
+
+27 Deleted tweets for [realTanyaTay](realtanyatay-deleted.md)
+
+15 Deleted tweets for [roofkorean7](roofkorean7-deleted.md)
+
+
