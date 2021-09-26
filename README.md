@@ -99,4 +99,5 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 [Deleted tweets for SeanHannity](SeanHannity-deleted.md)
 
+[Deleted tweets for Lauren_Southern](Lauren_Southern-deleted.md)
 
