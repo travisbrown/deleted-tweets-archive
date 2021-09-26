@@ -1,7 +1,5 @@
 Note: GitHub's rendered view of the Gist truncates the list. You can see the full content by clicking the "Raw" link above, or by cloning the Gist locally.
 
-target/release/twcc deleted-tweets --report MrAndyNgo
-
 ## Deleted tweets for MrAndyNgo
 
 The list below includes 726 deleted tweets by
