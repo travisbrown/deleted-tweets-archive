@@ -43,20 +43,28 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 [Deleted tweets for ggreenwald](https://gist.github.com/salcoast/39afab23c9a003132980a60e8a9def16)
 
+[Deleted tweets for Timcast](Timcast-deleted.md)
+
+[Deleted tweets for erictrump](erictrump-deleted.md)
+
+[Deleted tweets for repmattshea](repmattshea-deleted.md)
+
+[Deleted tweets for michaeltrollan](michaeltrollan-deleted.md)
+
+[Deleted tweets for charliekirk11](charliekirk11-deleted.md)
+
+[Deleted tweets for michellemalkin](michellemalkin-deleted.md)
+
+[Deleted tweets for JLeeQuinn](JLeeQuinn-deleted.md)
+
 [Deleted tweets for RAMRANTS](RAMRANTS-deleted.md)
 
 [Deleted tweets for VaushV](VaushV-deleted.md)
 
+[Deleted tweets for Theanim24326713](Theanim24326713-deleted.md)
 
+[Deleted tweets for ChandlerPappas](https://gist.github.com/salcoast/1ec7427e91aa040c3b0816b8069888eb)
 
-
-
-
-
-
-
-
-
-
+[Deleted tweets for tooze_dan](https://gist.github.com/salcoast/167ef4190e37658174d1f133ea9dd611)
 
 
