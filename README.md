@@ -95,4 +95,8 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 [Deleted tweets for TPUSA](TPUSA-deleted.md)
 
+[Deleted tweets for glennbeck](glennbeck-deleted.md)
+
+[Deleted tweets for SeanHannity](SeanHannity-deleted.md)
+
 
