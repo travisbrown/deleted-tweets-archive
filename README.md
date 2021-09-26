@@ -43,7 +43,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 253 Deleted tweets for [ggreenwald](https://gist.github.com/salcoast/39afab23c9a003132980a60e8a9def16)
 
-11 Deleted tweets for [Timcast](Timcast-deleted.md)
+11 Deleted tweets for [Timcast](timcast-deleted.md)
 
 4 Deleted tweets for [erictrump](erictrump-deleted.md)
 
@@ -55,13 +55,13 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 39 Deleted tweets for [michellemalkin](michellemalkin-deleted.md)
 
-93 Deleted tweets for [JLeeQuinn](JLeeQuinn-deleted.md)
+93 Deleted tweets for [JLeeQuinn](jleequinn-deleted.md)
 
-774 Deleted tweets for [RAMRANTS](RAMRANTS-deleted.md)
+774 Deleted tweets for [RAMRANTS](ramrants-deleted.md)
 
-310 Deleted tweets for [VaushV](VaushV-deleted.md)
+310 Deleted tweets for [VaushV](vaushv-deleted.md)
 
-4 Deleted tweets for [Theanim24326713](Theanim24326713-deleted.md)
+4 Deleted tweets for [Theanim24326713](theanim24326713-deleted.md)
 
 50 Deleted tweets for [ChandlerPappas](https://gist.github.com/salcoast/1ec7427e91aa040c3b0816b8069888eb)
 
@@ -71,43 +71,43 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 47 Deleted tweets for [richardbspencer](richardbspencer-deleted.md)
 
-10 Deleted tweets for [SchoepJeff](SchoepJeff-deleted.md)
+10 Deleted tweets for [SchoepJeff](schoepjeff-deleted.md)
 
-6360 Deleted tweets for [FaithGoldy](FaithGoldy-deleted.md)
+6360 Deleted tweets for [FaithGoldy](faithgoldy-deleted.md)
 
-547 Deleted tweets for [KatieDaviscourt](KatieDaviscourt-deleted.md)
+547 Deleted tweets for [KatieDaviscourt](katiedaviscourt-deleted.md)
 
 999 Deleted tweets for [ryanafournier](ryanafournier-deleted.md)
 
-5 Deleted tweets for [TuckerCarlson](TuckerCarlson-deleted.md)
+5 Deleted tweets for [TuckerCarlson](tuckercarlson-deleted.md)
 
-387 Deleted tweets for [DanScavino](DanScavino-deleted.md)
+387 Deleted tweets for [DanScavino](danscavino-deleted.md)
 
 15 Deleted tweets for [fighttheboring](fighttheboring-deleted.md)
 
-22 Deleted tweets for [EricSpracklen](EricSpracklen-deleted.md)
+22 Deleted tweets for [EricSpracklen](ericspracklen-deleted.md)
 
-155 Deleted tweets for [JoeyRockstone](JoeyRockstone-deleted.md)
+155 Deleted tweets for [JoeyRockstone](joeyrockstone-deleted.md)
 
-307 Deleted tweets for [ElijahSchaffer](ElijahSchaffer-deleted.md)
+307 Deleted tweets for [ElijahSchaffer](elijahschaffer-deleted.md)
 
-502 Deleted tweets for [Sal_LaBarbera](Sal_LaBarbera-deleted.md)
+502 Deleted tweets for [Sal_LaBarbera](sal_labarbera-deleted.md)
 
-3001 Deleted tweets for [TPUSA](TPUSA-deleted.md)
+3001 Deleted tweets for [TPUSA](tpusa-deleted.md)
 
 42 Deleted tweets for [glennbeck](glennbeck-deleted.md)
 
-3556 Deleted tweets for [SeanHannity](SeanHannity-deleted.md)
+3556 Deleted tweets for [SeanHannity](seanhannity-deleted.md)
 
 1783 Deleted tweets for [occdissent](occdissent-deleted.md)
 
 510 Deleted tweets for [permianevents](permianevents-deleted.md)
 
-71 Deleted tweets for [Daniel_Friberg](Daniel_Friberg-deleted.md)
+71 Deleted tweets for [Daniel_Friberg](daniel_friberg-deleted.md)
 
-11269 Deleted tweets for [Cernovich](Cernovich-deleted.md)
+11269 Deleted tweets for [Cernovich](cernovich-deleted.md)
 
-9748 Deleted tweets for [TheRalphRetort](TheRalphRetort-deleted.md)
+9748 Deleted tweets for [TheRalphRetort](theralphretort-deleted.md)
 
 213 Deleted tweets for [mm1951284](mm1951284-deleted.md)
 
@@ -115,9 +115,9 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 5 Deleted tweets for [americavanguard](americavanguard-deleted.md)
 
-214 Deleted tweets for [JoeOltmann](JoeOltmann-deleted.md)
+214 Deleted tweets for [JoeOltmann](joeoltmann-deleted.md)
 
 387 Deleted tweets for [bottomtexasuwu](bottomtexasuwu-deleted.md)
 
-2293 Deleted tweets for [Lauren_Southern](Lauren_Southern-deleted.md)
+2293 Deleted tweets for [Lauren_Southern](lauren_southern-deleted.md)
 
