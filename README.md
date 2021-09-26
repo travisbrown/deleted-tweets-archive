@@ -79,5 +79,17 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 [Deleted tweets for ryanafournier](ryanafournier-deleted.md)
 
+[Deleted tweets for TuckerCarlson](TuckerCarlson-deleted.md)
+
+[Deleted tweets for DanScavino](DanScavino-deleted.md)
+
+[Deleted tweets for fighttheboring](fighttheboring-deleted.md)
+
+[Deleted tweets for EricSpracklen](EricSpracklen-deleted.md)
+
+[Deleted tweets for JoeyRockstone](JoeyRockstone-deleted.md)
+
+[Deleted tweets for ElijahSchaffer](ElijahSchaffer-deleted.md)
+
 
 
