@@ -1,12 +1,12 @@
 # deleted-tweets-archive
-Deleted-Tweets-Archive
-
-About the project
 
 
 
 
-Datasets
+
+
+
+
 
 ## Methodology
 
@@ -24,7 +24,7 @@ Most of this process is automated using tools from the [cancel-culture] project.
 
 
 
-Future plans
+
 
 Current accounts in this archive
 
