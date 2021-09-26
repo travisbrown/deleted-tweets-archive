@@ -91,7 +91,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 [Deleted tweets for ElijahSchaffer](ElijahSchaffer-deleted.md)
 
-[Deleted tweets for Sal_LaBarbera](Sal_LaBarbera-deleted.md
+[Deleted tweets for Sal_LaBarbera](Sal_LaBarbera-deleted.md)
 
 [Deleted tweets for TPUSA](TPUSA-deleted.md)
 
