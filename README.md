@@ -104,3 +104,23 @@ Most of this process is automated using tools from the [cancel-culture](https://
 [Deleted tweets for permianevents](permianevents-deleted.md)
 
 [Deleted tweets for Daniel_Friberg](Daniel_Friberg-deleted.md)
+
+[Deleted tweets for Cernovich](Cernovich-deleted.md)
+
+[Deleted tweets for TheRalphRetort](TheRalphRetort-deleted.md)
+
+[Deleted tweets for mm1951284](mm1951284-deleted.md)
+
+[Deleted tweets for racerealismusa](racerealismusa-deleted.md)
+
+[Deleted tweets for americavanguard](americavanguard-deleted.md)
+
+[Deleted tweets for JoeOltmann](JoeOltmann-deleted.md)
+
+[Deleted tweets for bottomtexasuwu](bottomtexasuwu-deleted.md)
+
+
+
+
+
+
