@@ -101,3 +101,6 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 [Deleted tweets for occdissent](occdissent-deleted.md)
 
+[Deleted tweets for permianevents](permianevents-deleted.md)
+
+[Deleted tweets for Daniel_Friberg](Daniel_Friberg-deleted.md)
