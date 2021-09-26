@@ -41,7 +41,8 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 Current accounts in this archive
 
-[MrAndyNgo](https://gist.github.com/salcoast/6a2adb344534ef308a29d3d5d91cb2c8)
+[Deleted tweets for MrAndyNgo](https://gist.github.com/salcoast/6a2adb344534ef308a29d3d5d91cb2c8)
+
 [Deleted tweets for ggreenwald](https://gist.github.com/salcoast/39afab23c9a003132980a60e8a9def16)
 
 
