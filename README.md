@@ -23,7 +23,6 @@ All data was gathered from the [Wayback Machine][wayback-machine] over several m
 Most of this process is automated using tools from the [cancel-culture] project.
 
 
-Most of this process is automated using tools from the cancel-culture project.
 
 Future plans
 
