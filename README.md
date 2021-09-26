@@ -4,13 +4,11 @@
 
 ## About the Project 
 
-
-These tweets display some bad actors most divisive uses of the twitter platform.
-
+These tweets display several bad actors' most divisive uses of the Twitter platform.
 
 Example:
 
-MrAndyNgo has 895K followers. Many are rabid & receive/RT him real-time. They blasts hateful, bigoted sentiment. Andy's targets get harassed, death threats, spun into a news cycle via Post Millennial, or other far-right tabloid. Andy deletes his tweet after a short time. Then he walks away.
+MrAndyNgo has 895K followers. Many are rabid & receive/ReTweet him real-time. They blast hateful, bigoted sentiment. Andy's targets get harassed, receive death threats, and are spun into a news cycle via Post Millennial or other far-right tabloids. Andy deletes his tweets after a short time. Then he walks away.
 
 We are outraged.
 
