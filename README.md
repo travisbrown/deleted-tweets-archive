@@ -73,5 +73,8 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 [Deleted tweets for SchoepJeff](SchoepJeff-deleted.md)
 
+[Deleted tweets for FaithGoldy](FaithGoldy-deleted.md)
+
+[Deleted tweets for KatieDaviscourt](KatieDaviscourt-deleted.md)
 
 
