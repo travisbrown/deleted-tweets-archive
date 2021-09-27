@@ -135,3 +135,9 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 8200 Deleted tweets for [themaddimension](themaddimension-deleted.md) (Kessler)
 
+29 Deleted tweets for [BrandiKruse](BrandiKruse-deleted.md)
+
+3578 Deleted tweets for [evanmclaren](evanmclaren-deleted.md)
+
+5681 Deleted tweets for [jeffgiesea](jeffgiesea-deleted.md)
+
