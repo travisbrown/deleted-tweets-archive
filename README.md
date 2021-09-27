@@ -141,3 +141,27 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 5681 Deleted tweets for [jeffgiesea](jeffgiesea-deleted.md)
 
+8183 Deleted tweets for [stillgray](stillgray-deleted.md)
+ 
+3719 Deleted tweets for [stone_toss](stone_toss-deleted.md)
+ 
+34069 Deleted tweets for [realalexjones](realalexjones-deleted.md)
+ 
+2440 Deleted tweets for [vdare](vdare-deleted.md)
+
+6680 Deleted tweets for [mikepsjuice](mikepsjuice-deleted.md)
+ 
+144 Deleted tweets for [maximebernier](maximebernier-deleted.md)
+
+2582 Deleted tweets for [brittpettibone](brittpettibone-deleted.md)
+ 
+51 Deleted tweets for [bariweiss](bariweiss-deleted.md)
+ 
+2460 Deleted tweets for [rumples42296282](rumples42296282-deleted.md)
+
+5681 Deleted tweets for [jeffgiesea](jeffgiesea-deleted.md)
+
+3578 Deleted tweets for [evanmclaren](evanmclaren-deleted.md)
+ 
+4415 Deleted tweets for [johntiegen](johntiegen-deleted.md)
+
