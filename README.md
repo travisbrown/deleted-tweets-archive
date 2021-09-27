@@ -109,15 +109,15 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 9748 Deleted tweets for [TheRalphRetort](theralphretort-deleted.md)
 
-213 Deleted tweets for [mm1951284](mm1951284-deleted.md) (LoS)
+213 Deleted tweets for [mm1951284](mm1951284-deleted.md) (League of the South leadership)
 
 39 Deleted tweets for [racerealismusa](racerealismusa-deleted.md)
 
 5 Deleted tweets for [americavanguard](americavanguard-deleted.md)
 
-214 Deleted tweets for [JoeOltmann](joeoltmann-deleted.md)
+214 Deleted tweets for [JoeOltmann](joeoltmann-deleted.md) (QAnon - conspiracy theorist - violent extremist - patriot movement - https://www.azmirror.com/2021/06/30/election-conspiracy-film-stars-promoted-vigilante-action-against-officials/)
 
-387 Deleted tweets for [bottomtexasuwu](bottomtexasuwu-deleted.md) (Azzmador)
+387 Deleted tweets for [bottomtexasuwu](bottomtexasuwu-deleted.md) (Azzmador - Unite the Right - Neo-Nazi - Stormer - https://www.splcenter.org/fighting-hate/intelligence-report/2018/brawler)
 
 2293 Deleted tweets for [Lauren_Southern](lauren_southern-deleted.md)
 
