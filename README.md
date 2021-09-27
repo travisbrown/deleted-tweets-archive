@@ -161,3 +161,4 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 4415 Deleted tweets for [johntiegen](johntiegen-deleted.md)
 
+19165 Deleted tweets for [drdavidduke](drdavidduke-deleted.md)
