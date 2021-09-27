@@ -67,7 +67,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 23 Deleted tweets for [tooze_dan](tooze_dan.md)
 
-3 Deleted tweets for [emperorinvictus](emperorinvictus-deleted.md) (UTR)
+3 Deleted tweets for [emperorinvictus](emperorinvictus-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
 
 47 Deleted tweets for [richardbspencer](richardbspencer-deleted.md) (UTR)
 
@@ -99,11 +99,11 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 3556 Deleted tweets for [SeanHannity](seanhannity-deleted.md)
 
-1783 Deleted tweets for [occdissent](occdissent-deleted.md) (Brad Griffin)
+1783 Deleted tweets for [occdissent](occdissent-deleted.md) (Occidental Dissent - Spokesman - League of the South - https://www.splcenter.org/fighting-hate/extremist-files/individual/bradley-dean-griffin)
 
-510 Deleted tweets for [permianevents](permianevents-deleted.md) (Alan Swinney)
+510 Deleted tweets for [permianevents](permianevents-deleted.md) (Alan Swinney - https://www.kiro7.com/news/trending/proud-boys-member-alan-swinney-arrested-oregon-12-charges/655GFPEDPNDMBJ4CROU23YJRPA/)
 
-71 Deleted tweets for [Daniel_Friberg](daniel_friberg-deleted.md) (UTR)
+71 Deleted tweets for [Daniel_Friberg](daniel_friberg-deleted.md) (Arktos Media - one of the coordinators of unite the right - https://www.splcenter.org/hatewatch/2017/09/26/identity-evropa-and-arktos-media-%E2%80%94-likely-bedfellows)
 
 11269 Deleted tweets for [Cernovich](cernovich-deleted.md)
 
@@ -123,7 +123,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 235 Deleted tweets for [carymarules](carymarules-deleted.md)
  
-65 Deleted tweets for [irmahinojosa_](irmahinojosa_-deleted.md)
+65 Deleted tweets for [irmahinojosa_](irmahinojosa_-deleted.md) (Alt-Right, Latinos4Trump, MAGA3X)
 
 5281 Deleted tweets for [JacobAWohl](jacobawohl-deleted.md)
 
@@ -133,11 +133,11 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 3568 Deleted tweets for [patribotics](patribotics-deleted.md)
 
-8200 Deleted tweets for [themaddimension](themaddimension-deleted.md) (Kessler)
+8200 Deleted tweets for [themaddimension](themaddimension-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/jason-kessler)
 
 29 Deleted tweets for [BrandiKruse](BrandiKruse-deleted.md)
 
-3578 Deleted tweets for [evanmclaren](evanmclaren-deleted.md)
+3578 Deleted tweets for [evanmclaren](evanmclaren-deleted.md) (unite the right - lawyer - https://theintercept.com/2017/09/07/richard-spencer-national-policy-institute-leader-evan-mclaren/)
 
 5681 Deleted tweets for [jeffgiesea](jeffgiesea-deleted.md)
 
