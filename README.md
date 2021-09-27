@@ -111,9 +111,9 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 213 Deleted tweets for [mm1951284](mm1951284-deleted.md) (League of the South leadership)
 
-39 Deleted tweets for [racerealismusa](racerealismusa-deleted.md)
+39 Deleted tweets for [racerealismusa](racerealismusa-deleted.md) (Neo-Nazi - Founder of the Daily Stormer - https://www.theatlantic.com/magazine/archive/2017/12/the-making-of-an-american-nazi/544119/)
 
-5 Deleted tweets for [americavanguard](americavanguard-deleted.md)
+5 Deleted tweets for [americavanguard](americavanguard-deleted.md) (Original neo-Nazi group Heather Heyer's murderer was part of - now splintered - primarily to Patriot Front - https://www.adl.org/resources/backgrounders/vanguard-america)
 
 214 Deleted tweets for [JoeOltmann](joeoltmann-deleted.md) (QAnon - conspiracy theorist - violent extremist - patriot movement - https://www.azmirror.com/2021/06/30/election-conspiracy-film-stars-promoted-vigilante-action-against-officials/)
 
