@@ -131,4 +131,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 15 Deleted tweets for [roofkorean7](roofkorean7-deleted.md)
 
+3568 Deleted tweets for [patribotics](patribotics-deleted.md)
+
+8200 Deleted tweets for [themaddimension](themaddimension-deleted.md) (Kessler)
 
