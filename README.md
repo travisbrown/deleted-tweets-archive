@@ -135,7 +135,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 8200 Deleted tweets for [themaddimension](themaddimension-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/jason-kessler)
 
-29 Deleted tweets for [BrandiKruse](BrandiKruse-deleted.md)
+29 Deleted tweets for [BrandiKruse](brandikruse-deleted.md)
 
 3578 Deleted tweets for [evanmclaren](evanmclaren-deleted.md) (unite the right - lawyer - https://theintercept.com/2017/09/07/richard-spencer-national-policy-institute-leader-evan-mclaren/)
 
@@ -159,9 +159,5 @@ Most of this process is automated using tools from the [cancel-culture](https://
  
 2460 Deleted tweets for [rumples42296282](rumples42296282-deleted.md)
 
-5681 Deleted tweets for [jeffgiesea](jeffgiesea-deleted.md)
-
-3578 Deleted tweets for [evanmclaren](evanmclaren-deleted.md)
- 
 4415 Deleted tweets for [johntiegen](johntiegen-deleted.md)
 
