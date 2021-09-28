@@ -139,7 +139,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 3578 Deleted tweets for [evanmclaren](evanmclaren-deleted.md) (unite the right - lawyer - https://theintercept.com/2017/09/07/richard-spencer-national-policy-institute-leader-evan-mclaren/)
 
-5681 Deleted tweets for [jeffgiesea](jeffgiesea-deleted.md)
+5681 Deleted tweets for [jeffgiesea](jeffgiesea-deleted.md) (Former Director of Thiel Capital, alt-right, IDW - https://www.politico.com/magazine/story/2017/01/alt-right-trump-washington-dc-power-milo-214629/)
 
 8183 Deleted tweets for [stillgray](stillgray-deleted.md)
  
@@ -149,7 +149,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
  
 2440 Deleted tweets for [vdare](vdare-deleted.md)
 
-6680 Deleted tweets for [mikepsjuice](mikepsjuice-deleted.md)
+6680 Deleted tweets for [mikepsjuice](mikepsjuice-deleted.md) (Head of TRS - neo-Nazi - https://www.splcenter.org/fighting-hate/extremist-files/individual/michael-enoch-peinovich)
  
 144 Deleted tweets for [maximebernier](maximebernier-deleted.md)
 
@@ -157,13 +157,55 @@ Most of this process is automated using tools from the [cancel-culture](https://
  
 51 Deleted tweets for [bariweiss](bariweiss-deleted.md)
  
-2460 Deleted tweets for [rumples42296282](rumples42296282-deleted.md)
+2460 Deleted tweets for [rumples42296282](rumples42296282-deleted.md) (Neo-Nazi - Founder of the Daily Stormer - https://www.splcenter.org/fighting-hate/extremist-files/individual/andrew-anglin)
 
 4415 Deleted tweets for [johntiegen](johntiegen-deleted.md)
 
-19165 Deleted tweets for [drdavidduke](drdavidduke-deleted.md)
+19165 Deleted tweets for [drdavidduke](drdavidduke-deleted.md) (Republican Politician (LA), UTR, Former Grand Dragon of the KKK)
 
 9490 Deleted tweets for [oathkeepers](oathkeepers-deleted.md)
+
+178 Deleted tweets for [donaldjtrumpjr](donaldjtrumpjr-deleted.md)
+
+2 Deleted tweets for [206_922](206_922-deleted.md)
+
+3 Deleted tweets for [gottdiva](gottdiva-deleted.md)
+
+94 Deleted tweets for [jlptalk](jlptalk-deleted.md)
+
+121 Deleted tweets for [jordanbpeterson](jordanbpeterson-deleted.md)
+
+699 Deleted tweets for [justenoughheshy](justenoughheshy-deleted.md)
+
+14 Deleted tweets for [kyddanarchy](kyddanarchy-deleted.md)
+
+2 Deleted tweets for [kyddta](kyddta-deleted.md)
+
+1 Deleted tweets for [latinaafortrump](latinaafortrump-deleted.md)
+
+575 Deleted tweets for [lporiginalg](lporiginalg-deleted.md)
+
+326 Deleted tweets for [matthewazrieli](matthewazrieli-deleted.md)
+
+1041 Deleted tweets for [mike_macinnis](mike_macinnis-deleted.md)
+
+21 Deleted tweets for [mike_macinnis15](mike_macinnis15-deleted.md)
+
+244 Deleted tweets for [mike_macinnis16](mike_macinnis16-deleted.md)
+
+81 Deleted tweets for [mike_macinnis17](mike_macinnis17-deleted.md)
+
+1339 Deleted tweets for [prisonplanet](prisonplanet-deleted.md)
+
+62 Deleted tweets for [publicreportorg](publicreportorg-deleted.md)
+
+282 Deleted tweets for [scottmgreer](scottmgreer-deleted.md)
+
+2347 Deleted tweets for [summersaltine](summersaltine-deleted.md)
+
+97 Deleted tweets for [thattrumpguy](thattrumpguy-deleted.md)
+
+40 Deleted tweets for [unblockedlive](unblockedlive-deleted.md)
 
 
 
