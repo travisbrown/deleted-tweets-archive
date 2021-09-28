@@ -207,8 +207,8 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 40 Deleted tweets for [unblockedlive](unblockedlive-deleted.md)
 
-10029 Deleted tweets for [KeithWoodsYT](KeithWoodsYT-deleted.md)
+10029 Deleted tweets for [KeithWoodsYT](keithwoodsyt-deleted.md)
 
-3069 Deleted tweets for [TrumpRussiaHits](TrumpRussiaHits-deleted.md)
+3069 Deleted tweets for [TrumpRussiaHits](trumprussiahits-deleted.md)
 
 
