@@ -215,5 +215,56 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 38236 Deleted tweets for [LouiseMensch](louisemensch-deleted.md)
 
+85 Deleted tweets for [amrenaissance](amrenaissance-deleted.md)
+
+43 Deleted tweets for [amspectator](amspectator-deleted.md)
+
+230 Deleted tweets for [amymek](amymek-deleted.md)
+
+446 Deleted tweets for [baroncoleman](baroncoleman-deleted.md)
+
+134 Deleted tweets for [barrettwilson6](barrettwilson6-deleted.md)
+
+375 Deleted tweets for [chadwick_moore](chadwick_moore-deleted.md)
+
+138 Deleted tweets for [chsommers](chsommers-deleted.md)
+
+485 Deleted tweets for [clairlemon](clairlemon-deleted.md)
+
+118 Deleted tweets for [dissentcoach](dissentcoach-deleted.md)
+
+21 Deleted tweets for [divas4trump](divas4trump-deleted.md)
+
+89 Deleted tweets for [eoinlenihan](eoinlenihan-deleted.md)
+
+147 Deleted tweets for [fordfischer](fordfischer-deleted.md)
+
+9 Deleted tweets for [gatestoneinst](gatestoneinst-deleted.md)
+
+369 Deleted tweets for [gavinwax](gavinwax-deleted.md)
+
+59 Deleted tweets for [hot_messpdx](hot_messpdx-deleted.md)
+
+7921 Deleted tweets for [imamofpeace](imamofpeace-deleted.md)
+
+27 Deleted tweets for [patriotprayerus](patriotprayerus-deleted.md)
+
+147 Deleted tweets for [pdxadamsfam](pdxadamsfam-deleted.md)
+
+1335 Deleted tweets for [rambobiggs](rambobiggs-deleted.md)
+
+39 Deleted tweets for [realhaleyadams1](realhaleyadams1-deleted.md)
+
+185 Deleted tweets for [realhaleyadams](realhaleyadams-deleted.md)
+
+69 Deleted tweets for [taralarosa](taralarosa-deleted.md)
+
+548 Deleted tweets for [tpostmillennial](tpostmillennial-deleted.md)
+
+297 Deleted tweets for [uncensoredhaley](uncensoredhaley-deleted.md)
+
+4438 Deleted tweets for [vivalahaley3](vivalahaley3-deleted.md)
+
+1 Deleted tweets for [wester_haley](wester_haley-deleted.md)
 
 
