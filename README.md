@@ -195,20 +195,25 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 81 Deleted tweets for [mike_macinnis17](mike_macinnis17-deleted.md)
 
-1339 Deleted tweets for [prisonplanet](prisonplanet-deleted.md)
+1339 Deleted tweets for [PrisonPlanet](prisonplanet-deleted.md)
 
-62 Deleted tweets for [publicreportorg](publicreportorg-deleted.md)
+62 Deleted tweets for [PublicReportorg](publicreportorg-deleted.md)
 
-282 Deleted tweets for [scottmgreer](scottmgreer-deleted.md)
+282 Deleted tweets for [ScottMGreer](scottmgreer-deleted.md)
 
-2347 Deleted tweets for [summersaltine](summersaltine-deleted.md)
+2347 Deleted tweets for [SummerSaltine](summersaltine-deleted.md)
 
-97 Deleted tweets for [thattrumpguy](thattrumpguy-deleted.md)
+97 Deleted tweets for [ThatTrumpGuy](thattrumpguy-deleted.md)
 
 40 Deleted tweets for [unblockedlive](unblockedlive-deleted.md)
 
 10029 Deleted tweets for [KeithWoodsYT](keithwoodsyt-deleted.md)
 
 3069 Deleted tweets for [TrumpRussiaHits](trumprussiahits-deleted.md)
+
+72451 Deleted tweets for [JackpPosobiec](jackposobiec-deleted.md)
+
+38236 Deleted tweets for [LouiseMensch](louisemensch-deleted.md)
+
 
 
