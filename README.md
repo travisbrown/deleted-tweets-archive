@@ -211,7 +211,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 3069 Deleted tweets for [TrumpRussiaHits](trumprussiahits-deleted.md)
 
-72451 Deleted tweets for [JackpPosobiec](jackposobiec-deleted.md)
+72451 Deleted tweets for [JackPosobiec](jackposobiec-deleted.md)
 
 38236 Deleted tweets for [LouiseMensch](louisemensch-deleted.md)
 
