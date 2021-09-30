@@ -267,4 +267,63 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 1 Deleted tweets for [wester_haley](wester_haley-deleted.md)
 
+121 Deleted tweets for [jasonrantz-deleted.md](jasonrantz-deleted.md)
+
+211 Deleted tweets for [jihadwatchrs-deleted.md](jihadwatchrs-deleted.md)
+
+17470 Deleted tweets for [jonkay-deleted.md](jonkay-deleted.md)
+
+141 Deleted tweets for [julio_rosas11-deleted.md](julio_rosas11-deleted.md)
+
+1 Deleted tweets for [matthewtyrmand-deleted.md](matthewtyrmand-deleted.md)
+
+58 Deleted tweets for [mike_macinnis51-deleted.md](mike_macinnis51-deleted.md)
+
+1 Deleted tweets for [n2sreports-deleted.md](n2sreports-deleted.md)
+
+266 Deleted tweets for [nevercuck-deleted.md](nevercuck-deleted.md)
+
+32 Deleted tweets for [offensecoach-deleted.md](offensecoach-deleted.md)
+
+2659 Deleted tweets for [peterboghossian](peterboghossian-deleted.md)
+
+113 Deleted tweets for [peterbrimelow-deleted.md](peterbrimelow-deleted.md)
+
+339 Deleted tweets for [pnjaban-deleted.md](pnjaban-deleted.md)
+
+11695 Deleted tweets for [politicalshort-deleted.md](politicalshort-deleted.md)
+
+152 Deleted tweets for [quillette-deleted.md](quillette-deleted.md)
+
+9 Deleted tweets for [quillettem-deleted.md](quillettem-deleted.md)
+
+2 Deleted tweets for [radixjournal_-deleted.md](radixjournal_-deleted.md)
+
+183 Deleted tweets for [realcandaceo-deleted.md](realcandaceo-deleted.md)
+
+5470 Deleted tweets for [realdavereilly-deleted.md](realdavereilly-deleted.md)
+
+178 Deleted tweets for [rebekahrstevens-deleted.md](rebekahrstevens-deleted.md)
+
+237 Deleted tweets for [revengecoach-deleted.md](revengecoach-deleted.md)
+
+133 Deleted tweets for [risencoach-deleted.md](risencoach-deleted.md)
+
+46 Deleted tweets for [shelbytalcott-deleted.md](shelbytalcott-deleted.md)
+
+32 Deleted tweets for [stephenm-deleted.md](stephenm-deleted.md)
+
+523 Deleted tweets for [teberniesanders-deleted.md](teberniesanders-deleted.md)
+
+60 Deleted tweets for [terminalamerica-deleted.md](terminalamerica-deleted.md)
+
+63 Deleted tweets for [thelaurenchen-deleted.md](thelaurenchen-deleted.md)
+
+156 Deleted tweets for [therealkeean-deleted.md](therealkeean-deleted.md)
+
+2 Deleted tweets for [totalwarcoach-deleted.md](totalwarcoach-deleted.md)
+
+1 Deleted tweets for [tulsigabbard-deleted.md](tulsigabbard-deleted.md)
+
+1 Deleted tweets for [vishburra-deleted.md](vishburra-deleted.md)
 
