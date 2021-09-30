@@ -313,7 +313,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 32 Deleted tweets for [stephenm-deleted.md](stephenm-deleted.md)
 
-523 Deleted tweets for [teberniesanders-deleted.md](teberniesanders-deleted.md)
+523 Deleted tweets for [teberniesanders-deleted.md](teberniesanders-deleted.md) (Haley Adams)
 
 60 Deleted tweets for [terminalamerica-deleted.md](terminalamerica-deleted.md)
 
