@@ -331,7 +331,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 3 Deleted tweets for [bunkerwsmith](bunkerwsmith-deleted.md)
 
-18 Deleted tweets for [Casper4Colorado](Casper4Colorado-deleted.md)
+18 Deleted tweets for [Casper4Colorado](casper4colorado-deleted.md)
 
 3 Deleted tweets for [countercurrents](countercurrents-deleted.md)
 
@@ -341,20 +341,22 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 46 Deleted tweets for [juliahahntv](juliahahntv-deleted.md)
 
-18 Deleted tweets for [KreuzZane](KreuzZane-deleted.md)
+18 Deleted tweets for [KreuzZane](kreuzzane-deleted.md)
 
 56 Deleted tweets for [marcus_drusus](marcus_drusus-deleted.md)
 
 2477 Deleted tweets for [mcneiljaden](mcneiljaden-deleted.md)
 
-2 Deleted tweets for [MichaelKemps](MichaelKemps-deleted.md)
+2 Deleted tweets for [MichaelKemps](michaelkemps-deleted.md)
 
-271 Deleted tweets for [MichaelThomason](MichaelThomason-deleted.md)
+271 Deleted tweets for [MichaelThomason](michaelthomason-deleted.md)
 
-1414 Deleted tweets for [NommyCompany](NommyCompany-deleted.md)
+1414 Deleted tweets for [NommyCompany](nommycompany-deleted.md)
 
 9890 Deleted tweets for [pamelageller](pamelageller-deleted.md)
 
 610 Deleted tweets for [rondeaulivia](rondeaulivia-deleted.md)
+
+3120 Deleted tweets for [RooshV](rooshv-deleted.md)
 
 1 Deleted tweets for [srceryclub](srceryclub-deleted.md)
