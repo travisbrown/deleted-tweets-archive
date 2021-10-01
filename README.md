@@ -327,3 +327,32 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 1 Deleted tweets for [vishburra-deleted.md](vishburra-deleted.md)
 
+1 Deleted tweets for [aubrey_huff](aubrey_huff-deleted.md)
+
+1 Deleted tweets for [bunkerwsmith](bunkerwsmith-deleted.md)
+
+1 Deleted tweets for [Casper4Colorado](Casper4Colorado-deleted.md)
+
+1 Deleted tweets for [countercurrents](countercurrents-deleted.md)
+
+1 Deleted tweets for [darrenjbeattie](darrenjbeattie-deleted.md)
+
+1 Deleted tweets for [iamjojo](iamjojo-deleted.md)
+
+1 Deleted tweets for [juliahahntv](juliahahntv-deleted.md)
+
+1 Deleted tweets for [KreuzZane](KreuzZane-deleted.md)
+
+1 Deleted tweets for [mcneiljaden](mcneiljaden-deleted.md)
+
+1 Deleted tweets for [MichaelKemps](MichaelKemps-deleted.md)
+
+1 Deleted tweets for [MichaelThomason](MichaelThomason-deleted.md)
+
+1 Deleted tweets for [NommyCompany](NommyCompany-deleted.md)
+
+1 Deleted tweets for [pamelageller](pamelageller-deleted.md)
+
+1 Deleted tweets for [rondeaulivia](rondeaulivia-deleted.md)
+
+1 Deleted tweets for [srceryclub](srceryclub-deleted.md)
