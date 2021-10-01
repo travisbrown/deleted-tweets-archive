@@ -34,9 +34,6 @@ All data was gathered from the [Wayback Machine](https://archive.org/web/) over 
 Most of this process is automated using tools from the [cancel-culture](https://github.com/travisbrown/cancel-culture) project.
 
 
-## Sub-Categories
-
-PNW
 
 
 
