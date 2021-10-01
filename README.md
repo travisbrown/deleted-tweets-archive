@@ -327,32 +327,34 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 1 Deleted tweets for [vishburra-deleted.md](vishburra-deleted.md)
 
-1 Deleted tweets for [aubrey_huff](aubrey_huff-deleted.md)
+10916 Deleted tweets for [aubrey_huff](aubrey_huff-deleted.md)
 
-1 Deleted tweets for [bunkerwsmith](bunkerwsmith-deleted.md)
+3 Deleted tweets for [bunkerwsmith](bunkerwsmith-deleted.md)
 
-1 Deleted tweets for [Casper4Colorado](Casper4Colorado-deleted.md)
+18 Deleted tweets for [Casper4Colorado](Casper4Colorado-deleted.md)
 
-1 Deleted tweets for [countercurrents](countercurrents-deleted.md)
+3 Deleted tweets for [countercurrents](countercurrents-deleted.md)
 
-1 Deleted tweets for [darrenjbeattie](darrenjbeattie-deleted.md)
+299 Deleted tweets for [darrenjbeattie](darrenjbeattie-deleted.md)
 
-1 Deleted tweets for [iamjojo](iamjojo-deleted.md)
+66 Deleted tweets for [iamjojo](iamjojo-deleted.md)
 
-1 Deleted tweets for [juliahahntv](juliahahntv-deleted.md)
+46 Deleted tweets for [juliahahntv](juliahahntv-deleted.md)
 
-1 Deleted tweets for [KreuzZane](KreuzZane-deleted.md)
+18 Deleted tweets for [KreuzZane](KreuzZane-deleted.md)
 
-1 Deleted tweets for [mcneiljaden](mcneiljaden-deleted.md)
+56 Deleted tweets for [marcus_drusus](marcus_drusus-deleted.md)
 
-1 Deleted tweets for [MichaelKemps](MichaelKemps-deleted.md)
+2477 Deleted tweets for [mcneiljaden](mcneiljaden-deleted.md)
 
-1 Deleted tweets for [MichaelThomason](MichaelThomason-deleted.md)
+2 Deleted tweets for [MichaelKemps](MichaelKemps-deleted.md)
 
-1 Deleted tweets for [NommyCompany](NommyCompany-deleted.md)
+271 Deleted tweets for [MichaelThomason](MichaelThomason-deleted.md)
 
-1 Deleted tweets for [pamelageller](pamelageller-deleted.md)
+1414 Deleted tweets for [NommyCompany](NommyCompany-deleted.md)
 
-1 Deleted tweets for [rondeaulivia](rondeaulivia-deleted.md)
+9890 Deleted tweets for [pamelageller](pamelageller-deleted.md)
+
+610 Deleted tweets for [rondeaulivia](rondeaulivia-deleted.md)
 
 1 Deleted tweets for [srceryclub](srceryclub-deleted.md)
