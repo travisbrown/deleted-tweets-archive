@@ -34,6 +34,9 @@ All data was gathered from the [Wayback Machine](https://archive.org/web/) over 
 Most of this process is automated using tools from the [cancel-culture](https://github.com/travisbrown/cancel-culture) project.
 
 
+## Sub-Categories
+
+PNW
 
 
 
@@ -71,7 +74,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 47 Deleted tweets for [richardbspencer](richardbspencer-deleted.md) (UTR)
 
-10 Deleted tweets for [SchoepJeff](schoepjeff-deleted.md)  (neo-Nazi youth recruiter)
+10 Deleted tweets for [SchoepJeff](schoepjeff-deleted.md) (neo-Nazi youth recruiter)
 
 6360 Deleted tweets for [FaithGoldy](faithgoldy-deleted.md)
 
@@ -143,7 +146,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 8183 Deleted tweets for [stillgray](stillgray-deleted.md)
  
-3719 Deleted tweets for [stone_toss](stone_toss-deleted.md)
+3719 Deleted tweets for [stone_toss](stone_toss-deleted.md) (https://twitter.com/WhiteRoseAFA/status/1442588715008757761?s=20)
  
 34069 Deleted tweets for [realalexjones](realalexjones-deleted.md)
  
@@ -243,7 +246,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 369 Deleted tweets for [gavinwax](gavinwax-deleted.md)
 
-59 Deleted tweets for [hot_messpdx](hot_messpdx-deleted.md)
+59 Deleted tweets for [hot_messpdx](hot_messpdx-deleted.md) (Haley Adams)
 
 7921 Deleted tweets for [imamofpeace](imamofpeace-deleted.md)
 
@@ -251,21 +254,21 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 147 Deleted tweets for [pdxadamsfam](pdxadamsfam-deleted.md)
 
-1335 Deleted tweets for [rambobiggs](rambobiggs-deleted.md)
+1335 Deleted tweets for [rambobiggs](rambobiggs-deleted.md) (Joe Biggs - ProudBoys)
 
-39 Deleted tweets for [realhaleyadams1](realhaleyadams1-deleted.md)
+39 Deleted tweets for [realhaleyadams1](realhaleyadams1-deleted.md) (Haley Adams)
 
-185 Deleted tweets for [realhaleyadams](realhaleyadams-deleted.md)
+185 Deleted tweets for [realhaleyadams](realhaleyadams-deleted.md) (Haley Adams)
 
 69 Deleted tweets for [taralarosa](taralarosa-deleted.md)
 
 548 Deleted tweets for [tpostmillennial](tpostmillennial-deleted.md)
 
-297 Deleted tweets for [uncensoredhaley](uncensoredhaley-deleted.md)
+297 Deleted tweets for [uncensoredhaley](uncensoredhaley-deleted.md) (Haley Adams)
 
-4438 Deleted tweets for [vivalahaley3](vivalahaley3-deleted.md)
+4438 Deleted tweets for [vivalahaley3](vivalahaley3-deleted.md) (Haley Adams)
 
-1 Deleted tweets for [wester_haley](wester_haley-deleted.md)
+1 Deleted tweets for [wester_haley](wester_haley-deleted.md) (Haley Adams)
 
 121 Deleted tweets for [jasonrantz-deleted.md](jasonrantz-deleted.md)
 
@@ -331,7 +334,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 3 Deleted tweets for [bunkerwsmith](bunkerwsmith-deleted.md)
 
-18 Deleted tweets for [Casper4Colorado](casper4colorado-deleted.md)
+18 Deleted tweets for [Casper4Colorado](casper4colorado-deleted.md) (Joey Camp)
 
 3 Deleted tweets for [countercurrents](countercurrents-deleted.md)
 
@@ -351,7 +354,7 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 271 Deleted tweets for [MichaelThomason](michaelthomason-deleted.md)
 
-1414 Deleted tweets for [NommyCompany](nommycompany-deleted.md)
+1414 Deleted tweets for [NommyCompany](nommycompany-deleted.md) (Joey Camp)
 
 9890 Deleted tweets for [pamelageller](pamelageller-deleted.md)
 
