@@ -1,12 +1,11 @@
 ## PNW Sub-section
 
 
-# Andy Ngo
+## Andy Ngo
 
 726 Deleted tweets for [MrAndyNgo](mrandyngo.md)
 
-
-Patriot PatriotPrayer
+## Patriot PatriotPrayer
 
 4 Deleted tweets for [Theanim24326713](theanim24326713-deleted.md) (Chandler Pappas) 
 50 Deleted tweets for [ChandlerPappas](chandlerpappas.md)
@@ -14,15 +13,13 @@ Patriot PatriotPrayer
 155 Deleted tweets for [JoeyRockstone](joeyrockstone-deleted.md) (Joey Gibson, PatriotPrayer)
 
 
-Proud Boys
+## Proud Boys
 
 510 Deleted tweets for [permianevents](permianevents-deleted.md) (Alan Swinney - https://www.kiro7.com/news/trending/proud-boys-member-alan-swinney-arrested-oregon-12-charges/655GFPEDPNDMBJ4CROU23YJRPA/)
 23 Deleted tweets for [tooze_dan](tooze_dan.md)
 
  
- 
-
-Haley Adams
+## Haley Adams
 
 59 Deleted tweets for [hot_messpdx](hot_messpdx-deleted.md) (Haley Adams)
 39 Deleted tweets for [realhaleyadams1](realhaleyadams1-deleted.md) (Haley Adams)
@@ -33,7 +30,7 @@ Haley Adams
  
 15 Deleted tweets for [fighttheboring](fighttheboring-deleted.md) (Mack Lewis)
  
-Misc.
+## Misc.
  
 147 Deleted tweets for [pdxadamsfam](pdxadamsfam-deleted.md)
 
