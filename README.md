@@ -396,3 +396,5 @@ The current dataset now includes 391,565 distinct deleted or unavailable tweets,
 
 16 Deleted tweets for [SuperHappyFunA](superhappyfuna-deleted.md)
 
+646 Deleted tweets for [Ron4California](ron4california-deleted.md)
+
