@@ -5,7 +5,7 @@
 
 726 Deleted tweets for [MrAndyNgo](mrandyngo.md)
 
-## Patriot PatriotPrayer
+## Patriot Prayer
 
 4 Deleted tweets for [Theanim24326713](theanim24326713-deleted.md) (Chandler Pappas)
 
@@ -13,7 +13,7 @@
 
 27 Deleted tweets for [patriotprayerus](patriotprayerus-deleted.md)
 
-155 Deleted tweets for [JoeyRockstone](joeyrockstone-deleted.md) (Joey Gibson, PatriotPrayer)
+155 Deleted tweets for [JoeyRockstone](joeyrockstone-deleted.md) (Joey Gibson, Patriot Prayer)
 
 
 ## Proud Boys
@@ -25,17 +25,17 @@
  
 ## Haley Adams
 
-59 Deleted tweets for [hot_messpdx](hot_messpdx-deleted.md) (Haley Adams)
+59 Deleted tweets for [hot_messpdx](hot_messpdx-deleted.md)
 
-39 Deleted tweets for [realhaleyadams1](realhaleyadams1-deleted.md) (Haley Adams)
+39 Deleted tweets for [realhaleyadams1](realhaleyadams1-deleted.md)
 
-185 Deleted tweets for [realhaleyadams](realhaleyadams-deleted.md) (Haley Adams)
+185 Deleted tweets for [realhaleyadams](realhaleyadams-deleted.md)
 
-297 Deleted tweets for [uncensoredhaley](uncensoredhaley-deleted.md) (Haley Adams)
+297 Deleted tweets for [uncensoredhaley](uncensoredhaley-deleted.md)
 
-4438 Deleted tweets for [vivalahaley3](vivalahaley3-deleted.md) (Haley Adams)
+4438 Deleted tweets for [vivalahaley3](vivalahaley3-deleted.md)
 
-1 Deleted tweets for [wester_haley](wester_haley-deleted.md) (Haley Adams)
+1 Deleted tweets for [wester_haley](wester_haley-deleted.md)
  
 15 Deleted tweets for [fighttheboring](fighttheboring-deleted.md) (Mack Lewis)
  
