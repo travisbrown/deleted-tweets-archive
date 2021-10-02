@@ -363,15 +363,15 @@ Most of this process is automated using tools from the [cancel-culture](https://
 
 338 Deleted tweets for [kyrstensinema](kyrstensinema-deleted.md)
 
-55 Deleted tweets for [YourDaddyJoey](yourdaddyjoey-deleted.md)
+55 Deleted tweets for [YourDaddyJoey](yourdaddyjoey-deleted.md) (Joey Camp)
 
-71 Deleted tweets for [MikkiVonWeber](mikkivonweber-deleted.md)
+71 Deleted tweets for [MikkiVonWeber](mikkivonweber-deleted.md) (Joey Camp)
 
-33 Deleted tweets for [MikkiTheMime](mikkithemime-deleted.md)
+33 Deleted tweets for [MikkiTheMime](mikkithemime-deleted.md) (Joey Camp)
 
-4598 Deleted tweets for [JoeyCamp2020](joeycamp2020-deleted.md)
+4598 Deleted tweets for [JoeyCamp2020](joeycamp2020-deleted.md) (Joey Camp)
 
-153 Deleted tweets for [JoeyCamp20xx](joeycamp20xx-deleted.md)
+153 Deleted tweets for [JoeyCamp20xx](joeycamp20xx-deleted.md) (Joey Camp)
 
 34 Deleted tweets for [IanCrossland](aancrossland-deleted.md)
 
