@@ -362,3 +362,30 @@ Most of this process is automated using tools from the [cancel-culture](https://
 1 Deleted tweets for [srceryclub](srceryclub-deleted.md)
 
 338 Deleted tweets for [kyrstensinema](kyrstensinema-deleted.md)
+
+55 Deleted tweets for [YourDaddyJoey](yourdaddyjoey-deleted.md)
+
+71 Deleted tweets for [MikkiVonWeber](mikkivonweber-deleted.md)
+
+33 Deleted tweets for [MikkiTheMime](mikkithemime-deleted.md)
+
+4598 Deleted tweets for [JoeyCamp2020](joeycamp2020-deleted.md)
+
+153 Deleted tweets for [JoeyCamp20xx](joeycamp20xx-deleted.md)
+
+34 Deleted tweets for [IanCrossland](aancrossland-deleted.md)
+
+704 Deleted tweets for [LibertarianBlue](libertarianblue-deleted.md)
+
+1 Deleted tweets for [Ayaan](ayaan-deleted.md)
+
+498 Deleted tweets for [TimRunsHisMouth](timrunshismouth-deleted.md)
+
+12 Deleted tweets for [DouglasKMurray](douglaskmurray-deleted.md)
+
+799 Deleted tweets for [roncoleman](roncoleman-deleted.md)
+
+60 Deleted tweets for [RubinReport](rubinreport-deleted.md)
+
+16 Deleted tweets for [SuperHappyFunA](superhappyfuna-deleted.md)
+
