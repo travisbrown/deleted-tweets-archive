@@ -7,9 +7,12 @@
 
 ## Patriot PatriotPrayer
 
-4 Deleted tweets for [Theanim24326713](theanim24326713-deleted.md) (Chandler Pappas) 
+4 Deleted tweets for [Theanim24326713](theanim24326713-deleted.md) (Chandler Pappas)
+
 50 Deleted tweets for [ChandlerPappas](chandlerpappas.md)
+
 27 Deleted tweets for [patriotprayerus](patriotprayerus-deleted.md)
+
 155 Deleted tweets for [JoeyRockstone](joeyrockstone-deleted.md) (Joey Gibson, PatriotPrayer)
 
 
