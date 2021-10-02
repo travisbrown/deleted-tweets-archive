@@ -360,3 +360,5 @@ Most of this process is automated using tools from the [cancel-culture](https://
 3120 Deleted tweets for [RooshV](rooshv-deleted.md)
 
 1 Deleted tweets for [srceryclub](srceryclub-deleted.md)
+
+338 Deleted tweets for [kyrstensinema](kyrstensinema-deleted.md)
