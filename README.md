@@ -239,7 +239,7 @@ The current dataset now includes 391,565 distinct deleted or unavailable tweets,
 
 89 Deleted tweets for [eoinlenihan](eoinlenihan-deleted.md)
 
-147 Deleted tweets for [fordfischer](fordfischer-deleted.md)
+139 Deleted tweets for [fordfischer](fordfischer-deleted.md)
 
 9 Deleted tweets for [gatestoneinst](gatestoneinst-deleted.md)
 
