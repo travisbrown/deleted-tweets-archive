@@ -401,3 +401,19 @@ The current dataset now includes 391,565 distinct deleted or unavailable tweets,
 
 646 Deleted tweets for [Ron4California](ron4california-deleted.md)
 
+1853 Deleted tweets for [CampJosephA](campjosepha-deleted.md)
+
+5232 Deleted tweets for [DaddySharkShark-deleted.md](daddysharkshark-deleted.md)
+ 
+21 Deleted tweets for [FriendlyHombre-deleted.md](friendlyhombre-deleted.md)
+ 
+19 Deleted tweets for [JojosSecurity-deleted.md](jojossecurity-deleted.md)
+
+425 Deleted tweets for [CierraFsModel-deleted.md](cierrafsmodel-deleted.md)
+
+49 Deleted tweets for [DreamKerosene-deleted.md](dreamkerosene-deleted.md)
+
+3 Deleted tweets for [20campjoey20-deleted.md](20campjoey20-deleted.md)
+
+
+
