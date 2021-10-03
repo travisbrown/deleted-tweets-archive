@@ -45,375 +45,374 @@ The current dataset now includes 399,805 distinct deleted or unavailable tweets,
 
 [Unite The Right](UTR.md)
 
-
-
 ## Current accounts in this archive
 
-726 Deleted tweets for [MrAndyNgo](mrandyngo.md)
+726 Deleted tweets for [MrAndyNgo](datasets/mrandyngo.md)
 
-253 Deleted tweets for [ggreenwald](ggreenwald.md)
+253 Deleted tweets for [ggreenwald](datasets/ggreenwald.md)
 
-11 Deleted tweets for [Timcast](timcast-deleted.md)
+11 Deleted tweets for [Timcast](datasets/timcast-deleted.md)
 
-4 Deleted tweets for [erictrump](erictrump-deleted.md)
+4 Deleted tweets for [erictrump](datasets/erictrump-deleted.md)
 
-12 Deleted tweets for [repmattshea](repmattshea-deleted.md)
+12 Deleted tweets for [repmattshea](datasets/repmattshea-deleted.md)
 
-516 Deleted tweets for [michaeltrollan](michaeltrollan-deleted.md)
+516 Deleted tweets for [michaeltrollan](datasets/michaeltrollan-deleted.md)
 
-137 Deleted tweets for [charliekirk11](charliekirk11-deleted.md)
+137 Deleted tweets for [charliekirk11](datasets/charliekirk11-deleted.md)
 
-39 Deleted tweets for [michellemalkin](michellemalkin-deleted.md)
+39 Deleted tweets for [michellemalkin](datasets/michellemalkin-deleted.md)
 
-93 Deleted tweets for [JLeeQuinn](jleequinn-deleted.md)
+93 Deleted tweets for [JLeeQuinn](datasets/jleequinn-deleted.md)
 
-774 Deleted tweets for [RAMRANTS](ramrants-deleted.md)
+774 Deleted tweets for [RAMRANTS](datasets/ramrants-deleted.md)
 
-310 Deleted tweets for [VaushV](vaushv-deleted.md)
+310 Deleted tweets for [VaushV](datasets/vaushv-deleted.md)
 
-4 Deleted tweets for [Theanim24326713](theanim24326713-deleted.md) (Chandler Pappas)
+4 Deleted tweets for [Theanim24326713](datasets/theanim24326713-deleted.md) (Chandler Pappas)
 
-50 Deleted tweets for [ChandlerPappas](chandlerpappas.md)
+50 Deleted tweets for [ChandlerPappas](datasets/chandlerpappas.md)
 
-23 Deleted tweets for [tooze_dan](tooze_dan.md)
+23 Deleted tweets for [tooze_dan](datasets/tooze_dan.md)
 
-3 Deleted tweets for [emperorinvictus](emperorinvictus-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
+3 Deleted tweets for [emperorinvictus](datasets/emperorinvictus-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/augustus-sol-invictus)
 
-47 Deleted tweets for [richardbspencer](richardbspencer-deleted.md) (UTR)
+47 Deleted tweets for [richardbspencer](datasets/richardbspencer-deleted.md) (UTR)
 
-10 Deleted tweets for [SchoepJeff](schoepjeff-deleted.md) (neo-Nazi youth recruiter)
+10 Deleted tweets for [SchoepJeff](datasets/schoepjeff-deleted.md) (neo-Nazi youth recruiter)
 
-6360 Deleted tweets for [FaithGoldy](faithgoldy-deleted.md)
+6360 Deleted tweets for [FaithGoldy](datasets/faithgoldy-deleted.md)
 
-547 Deleted tweets for [KatieDaviscourt](katiedaviscourt-deleted.md)
+547 Deleted tweets for [KatieDaviscourt](datasets/katiedaviscourt-deleted.md)
 
-999 Deleted tweets for [ryanafournier](ryanafournier-deleted.md)
+999 Deleted tweets for [ryanafournier](datasets/ryanafournier-deleted.md)
 
-5 Deleted tweets for [TuckerCarlson](tuckercarlson-deleted.md)
+5 Deleted tweets for [TuckerCarlson](datasets/tuckercarlson-deleted.md)
 
-387 Deleted tweets for [DanScavino](danscavino-deleted.md)
+387 Deleted tweets for [DanScavino](datasets/danscavino-deleted.md)
 
-15 Deleted tweets for [fighttheboring](fighttheboring-deleted.md) (Mack Lewis)
+15 Deleted tweets for [fighttheboring](datasets/fighttheboring-deleted.md) (Mack Lewis)
 
-22 Deleted tweets for [EricSpracklen](ericspracklen-deleted.md)
+22 Deleted tweets for [EricSpracklen](datasets/ericspracklen-deleted.md)
 
-155 Deleted tweets for [JoeyRockstone](joeyrockstone-deleted.md) (Joey Gibson, PatriotParty)
+155 Deleted tweets for [JoeyRockstone](datasets/joeyrockstone-deleted.md) (Joey Gibson, PatriotParty)
 
-307 Deleted tweets for [ElijahSchaffer](elijahschaffer-deleted.md)
+307 Deleted tweets for [ElijahSchaffer](datasets/elijahschaffer-deleted.md)
 
-502 Deleted tweets for [Sal_LaBarbera](sal_labarbera-deleted.md)
+502 Deleted tweets for [Sal_LaBarbera](datasets/sal_labarbera-deleted.md)
 
-3001 Deleted tweets for [TPUSA](tpusa-deleted.md)
+3001 Deleted tweets for [TPUSA](datasets/tpusa-deleted.md)
 
-42 Deleted tweets for [glennbeck](glennbeck-deleted.md)
+42 Deleted tweets for [glennbeck](datasets/glennbeck-deleted.md)
 
-3556 Deleted tweets for [SeanHannity](seanhannity-deleted.md)
+3556 Deleted tweets for [SeanHannity](datasets/seanhannity-deleted.md)
 
-1783 Deleted tweets for [occdissent](occdissent-deleted.md) (Occidental Dissent - Spokesman - League of the South - https://www.splcenter.org/fighting-hate/extremist-files/individual/bradley-dean-griffin)
+1783 Deleted tweets for [occdissent](datasets/occdissent-deleted.md) (Occidental Dissent - Spokesman - League of the South - https://www.splcenter.org/fighting-hate/extremist-files/individual/bradley-dean-griffin)
 
-510 Deleted tweets for [permianevents](permianevents-deleted.md) (Alan Swinney - https://www.kiro7.com/news/trending/proud-boys-member-alan-swinney-arrested-oregon-12-charges/655GFPEDPNDMBJ4CROU23YJRPA/)
+510 Deleted tweets for [permianevents](datasets/permianevents-deleted.md) (Alan Swinney - https://www.kiro7.com/news/trending/proud-boys-member-alan-swinney-arrested-oregon-12-charges/655GFPEDPNDMBJ4CROU23YJRPA/)
 
-71 Deleted tweets for [Daniel_Friberg](daniel_friberg-deleted.md) (Arktos Media - one of the coordinators of unite the right - https://www.splcenter.org/hatewatch/2017/09/26/identity-evropa-and-arktos-media-%E2%80%94-likely-bedfellows)
+71 Deleted tweets for [Daniel_Friberg](datasets/daniel_friberg-deleted.md) (Arktos Media - one of the coordinators of unite the right - https://www.splcenter.org/hatewatch/2017/09/26/identity-evropa-and-arktos-media-%E2%80%94-likely-bedfellows)
 
-11269 Deleted tweets for [Cernovich](cernovich-deleted.md)
+11269 Deleted tweets for [Cernovich](datasets/cernovich-deleted.md)
 
-9748 Deleted tweets for [TheRalphRetort](theralphretort-deleted.md)
+9748 Deleted tweets for [TheRalphRetort](datasets/theralphretort-deleted.md)
 
-213 Deleted tweets for [mm1951284](mm1951284-deleted.md) (League of the South leadership)
+213 Deleted tweets for [mm1951284](datasets/mm1951284-deleted.md) (League of the South leadership)
 
-39 Deleted tweets for [racerealismusa](racerealismusa-deleted.md) (Neo-Nazi - Founder of the Daily Stormer - https://www.theatlantic.com/magazine/archive/2017/12/the-making-of-an-american-nazi/544119/)
+39 Deleted tweets for [racerealismusa](datasets/racerealismusa-deleted.md) (Neo-Nazi - Founder of the Daily Stormer - https://www.theatlantic.com/magazine/archive/2017/12/the-making-of-an-american-nazi/544119/)
 
-5 Deleted tweets for [americavanguard](americavanguard-deleted.md) (Original neo-Nazi group Heather Heyer's murderer was part of - now splintered - primarily to Patriot Front - https://www.adl.org/resources/backgrounders/vanguard-america)
+5 Deleted tweets for [americavanguard](datasets/americavanguard-deleted.md) (Original neo-Nazi group Heather Heyer's murderer was part of - now splintered - primarily to Patriot Front - https://www.adl.org/resources/backgrounders/vanguard-america)
 
-214 Deleted tweets for [JoeOltmann](joeoltmann-deleted.md) (QAnon - conspiracy theorist - violent extremist - patriot movement - https://www.azmirror.com/2021/06/30/election-conspiracy-film-stars-promoted-vigilante-action-against-officials/)
+214 Deleted tweets for [JoeOltmann](datasets/joeoltmann-deleted.md) (QAnon - conspiracy theorist - violent extremist - patriot movement - https://www.azmirror.com/2021/06/30/election-conspiracy-film-stars-promoted-vigilante-action-against-officials/)
 
-387 Deleted tweets for [bottomtexasuwu](bottomtexasuwu-deleted.md) (Azzmador - Unite the Right - Neo-Nazi - Stormer - https://www.splcenter.org/fighting-hate/intelligence-report/2018/brawler)
+387 Deleted tweets for [bottomtexasuwu](datasets/bottomtexasuwu-deleted.md) (Azzmador - Unite the Right - Neo-Nazi - Stormer - https://www.splcenter.org/fighting-hate/intelligence-report/2018/brawler)
 
-2293 Deleted tweets for [Lauren_Southern](lauren_southern-deleted.md)
+2293 Deleted tweets for [Lauren_Southern](datasets/lauren_southern-deleted.md)
 
-235 Deleted tweets for [carymarules](carymarules-deleted.md)
- 
-65 Deleted tweets for [irmahinojosa_](irmahinojosa_-deleted.md) (Alt-Right, Latinos4Trump, MAGA3X)
+235 Deleted tweets for [carymarules](datasets/carymarules-deleted.md)
 
-5281 Deleted tweets for [JacobAWohl](jacobawohl-deleted.md)
+65 Deleted tweets for [irmahinojosa_](datasets/irmahinojosa_-deleted.md) (Alt-Right, Latinos4Trump, MAGA3X)
 
-27 Deleted tweets for [realTanyaTay](realtanyatay-deleted.md)
+5281 Deleted tweets for [JacobAWohl](datasets/jacobawohl-deleted.md)
 
-15 Deleted tweets for [roofkorean7](roofkorean7-deleted.md)
+27 Deleted tweets for [realTanyaTay](datasets/realtanyatay-deleted.md)
 
-3568 Deleted tweets for [patribotics](patribotics-deleted.md)
+15 Deleted tweets for [roofkorean7](datasets/roofkorean7-deleted.md)
 
-8200 Deleted tweets for [themaddimension](themaddimension-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/jason-kessler)
+3568 Deleted tweets for [patribotics](datasets/patribotics-deleted.md)
 
-29 Deleted tweets for [BrandiKruse](brandikruse-deleted.md)
+8200 Deleted tweets for [themaddimension](datasets/themaddimension-deleted.md) (https://www.splcenter.org/fighting-hate/extremist-files/individual/jason-kessler)
 
-3578 Deleted tweets for [evanmclaren](evanmclaren-deleted.md) (unite the right - lawyer - https://theintercept.com/2017/09/07/richard-spencer-national-policy-institute-leader-evan-mclaren/)
+29 Deleted tweets for [BrandiKruse](datasets/brandikruse-deleted.md)
 
-5681 Deleted tweets for [jeffgiesea](jeffgiesea-deleted.md) (Former Director of Thiel Capital, alt-right, IDW - https://www.politico.com/magazine/story/2017/01/alt-right-trump-washington-dc-power-milo-214629/)
+3578 Deleted tweets for [evanmclaren](datasets/evanmclaren-deleted.md) (unite the right - lawyer - https://theintercept.com/2017/09/07/richard-spencer-national-policy-institute-leader-evan-mclaren/)
 
-8183 Deleted tweets for [stillgray](stillgray-deleted.md)
- 
-3719 Deleted tweets for [stone_toss](stone_toss-deleted.md) (https://twitter.com/WhiteRoseAFA/status/1442588715008757761?s=20)
- 
-34069 Deleted tweets for [realalexjones](realalexjones-deleted.md)
- 
-2440 Deleted tweets for [vdare](vdare-deleted.md)
+5681 Deleted tweets for [jeffgiesea](datasets/jeffgiesea-deleted.md) (Former Director of Thiel Capital, alt-right, IDW - https://www.politico.com/magazine/story/2017/01/alt-right-trump-washington-dc-power-milo-214629/)
 
-6680 Deleted tweets for [mikepsjuice](mikepsjuice-deleted.md) (Head of TRS - neo-Nazi - https://www.splcenter.org/fighting-hate/extremist-files/individual/michael-enoch-peinovich)
- 
-144 Deleted tweets for [maximebernier](maximebernier-deleted.md)
+8183 Deleted tweets for [stillgray](datasets/stillgray-deleted.md)
 
-2582 Deleted tweets for [brittpettibone](brittpettibone-deleted.md)
- 
-51 Deleted tweets for [bariweiss](bariweiss-deleted.md)
- 
-2460 Deleted tweets for [rumples42296282](rumples42296282-deleted.md) (Neo-Nazi - Founder of the Daily Stormer - https://www.splcenter.org/fighting-hate/extremist-files/individual/andrew-anglin)
+3719 Deleted tweets for [stone_toss](datasets/stone_toss-deleted.md) (https://twitter.com/WhiteRoseAFA/status/1442588715008757761?s=20)
 
-4415 Deleted tweets for [johntiegen](johntiegen-deleted.md)
+34069 Deleted tweets for [realalexjones](datasets/realalexjones-deleted.md)
 
-19165 Deleted tweets for [drdavidduke](drdavidduke-deleted.md) (Republican Politician (LA), UTR, Former Grand Dragon of the KKK)
+2440 Deleted tweets for [vdare](datasets/vdare-deleted.md)
 
-9490 Deleted tweets for [oathkeepers](oathkeepers-deleted.md)
+6680 Deleted tweets for [mikepsjuice](datasets/mikepsjuice-deleted.md) (Head of TRS - neo-Nazi - https://www.splcenter.org/fighting-hate/extremist-files/individual/michael-enoch-peinovich)
 
-178 Deleted tweets for [donaldjtrumpjr](donaldjtrumpjr-deleted.md)
+144 Deleted tweets for [maximebernier](datasets/maximebernier-deleted.md)
 
-2 Deleted tweets for [206_922](206_922-deleted.md)
+2582 Deleted tweets for [brittpettibone](datasets/brittpettibone-deleted.md)
 
-3 Deleted tweets for [gottdiva](gottdiva-deleted.md)
+51 Deleted tweets for [bariweiss](datasets/bariweiss-deleted.md)
 
-94 Deleted tweets for [jlptalk](jlptalk-deleted.md)
+2460 Deleted tweets for [rumples42296282](datasets/rumples42296282-deleted.md) (Neo-Nazi - Founder of the Daily Stormer - https://www.splcenter.org/fighting-hate/extremist-files/individual/andrew-anglin)
 
-121 Deleted tweets for [jordanbpeterson](jordanbpeterson-deleted.md)
+4415 Deleted tweets for [johntiegen](datasets/johntiegen-deleted.md)
 
-699 Deleted tweets for [justenoughheshy](justenoughheshy-deleted.md)
+19165 Deleted tweets for [drdavidduke](datasets/drdavidduke-deleted.md) (Republican Politician (LA), UTR, Former Grand Dragon of the KKK)
 
-14 Deleted tweets for [kyddanarchy](kyddanarchy-deleted.md)
+9490 Deleted tweets for [oathkeepers](datasets/oathkeepers-deleted.md)
 
-2 Deleted tweets for [kyddta](kyddta-deleted.md)
+178 Deleted tweets for [donaldjtrumpjr](datasets/donaldjtrumpjr-deleted.md)
 
-1 Deleted tweets for [latinaafortrump](latinaafortrump-deleted.md)
+2 Deleted tweets for [206_922](datasets/206_922-deleted.md)
 
-575 Deleted tweets for [lporiginalg](lporiginalg-deleted.md)
+3 Deleted tweets for [gottdiva](datasets/gottdiva-deleted.md)
 
-326 Deleted tweets for [matthewazrieli](matthewazrieli-deleted.md)
+94 Deleted tweets for [jlptalk](datasets/jlptalk-deleted.md)
 
-1041 Deleted tweets for [mike_macinnis](mike_macinnis-deleted.md)
+121 Deleted tweets for [jordanbpeterson](datasets/jordanbpeterson-deleted.md)
 
-21 Deleted tweets for [mike_macinnis15](mike_macinnis15-deleted.md)
+699 Deleted tweets for [justenoughheshy](datasets/justenoughheshy-deleted.md)
 
-244 Deleted tweets for [mike_macinnis16](mike_macinnis16-deleted.md)
+14 Deleted tweets for [kyddanarchy](datasets/kyddanarchy-deleted.md)
 
-81 Deleted tweets for [mike_macinnis17](mike_macinnis17-deleted.md)
+2 Deleted tweets for [kyddta](datasets/kyddta-deleted.md)
 
-1339 Deleted tweets for [PrisonPlanet](prisonplanet-deleted.md)
+1 Deleted tweets for [latinaafortrump](datasets/latinaafortrump-deleted.md)
 
-62 Deleted tweets for [PublicReportorg](publicreportorg-deleted.md)
+575 Deleted tweets for [lporiginalg](datasets/lporiginalg-deleted.md)
 
-282 Deleted tweets for [ScottMGreer](scottmgreer-deleted.md)
+326 Deleted tweets for [matthewazrieli](datasets/matthewazrieli-deleted.md)
 
-2347 Deleted tweets for [SummerSaltine](summersaltine-deleted.md)
+1041 Deleted tweets for [mike_macinnis](datasets/mike_macinnis-deleted.md)
 
-97 Deleted tweets for [ThatTrumpGuy](thattrumpguy-deleted.md)
+21 Deleted tweets for [mike_macinnis15](datasets/mike_macinnis15-deleted.md)
 
-40 Deleted tweets for [unblockedlive](unblockedlive-deleted.md)
+244 Deleted tweets for [mike_macinnis16](datasets/mike_macinnis16-deleted.md)
 
-10029 Deleted tweets for [KeithWoodsYT](keithwoodsyt-deleted.md)
+81 Deleted tweets for [mike_macinnis17](datasets/mike_macinnis17-deleted.md)
 
-3069 Deleted tweets for [TrumpRussiaHits](trumprussiahits-deleted.md)
+1339 Deleted tweets for [PrisonPlanet](datasets/prisonplanet-deleted.md)
 
-72451 Deleted tweets for [JackPosobiec](jackposobiec-deleted.md)
+62 Deleted tweets for [PublicReportorg](datasets/publicreportorg-deleted.md)
 
-38236 Deleted tweets for [LouiseMensch](louisemensch-deleted.md)
+282 Deleted tweets for [ScottMGreer](datasets/scottmgreer-deleted.md)
 
-85 Deleted tweets for [amrenaissance](amrenaissance-deleted.md)
+2347 Deleted tweets for [SummerSaltine](datasets/summersaltine-deleted.md)
 
-43 Deleted tweets for [amspectator](amspectator-deleted.md)
+97 Deleted tweets for [ThatTrumpGuy](datasets/thattrumpguy-deleted.md)
 
-230 Deleted tweets for [amymek](amymek-deleted.md)
+40 Deleted tweets for [unblockedlive](datasets/unblockedlive-deleted.md)
 
-446 Deleted tweets for [baroncoleman](baroncoleman-deleted.md)
+10029 Deleted tweets for [KeithWoodsYT](datasets/keithwoodsyt-deleted.md)
 
-134 Deleted tweets for [barrettwilson6](barrettwilson6-deleted.md)
+3069 Deleted tweets for [TrumpRussiaHits](datasets/trumprussiahits-deleted.md)
 
-375 Deleted tweets for [chadwick_moore](chadwick_moore-deleted.md)
+72451 Deleted tweets for [JackPosobiec](datasets/jackposobiec-deleted.md)
 
-138 Deleted tweets for [chsommers](chsommers-deleted.md)
+38236 Deleted tweets for [LouiseMensch](datasets/louisemensch-deleted.md)
 
-485 Deleted tweets for [clairlemon](clairlemon-deleted.md)
+85 Deleted tweets for [amrenaissance](datasets/amrenaissance-deleted.md)
 
-118 Deleted tweets for [dissentcoach](dissentcoach-deleted.md)
+43 Deleted tweets for [amspectator](datasets/amspectator-deleted.md)
 
-21 Deleted tweets for [divas4trump](divas4trump-deleted.md)
+230 Deleted tweets for [amymek](datasets/amymek-deleted.md)
 
-89 Deleted tweets for [eoinlenihan](eoinlenihan-deleted.md)
+446 Deleted tweets for [baroncoleman](datasets/baroncoleman-deleted.md)
 
-139 Deleted tweets for [fordfischer](fordfischer-deleted.md)
+134 Deleted tweets for [barrettwilson6](datasets/barrettwilson6-deleted.md)
 
-9 Deleted tweets for [gatestoneinst](gatestoneinst-deleted.md)
+375 Deleted tweets for [chadwick_moore](datasets/chadwick_moore-deleted.md)
 
-369 Deleted tweets for [gavinwax](gavinwax-deleted.md)
+138 Deleted tweets for [chsommers](datasets/chsommers-deleted.md)
 
-59 Deleted tweets for [hot_messpdx](hot_messpdx-deleted.md) (Haley Adams)
+485 Deleted tweets for [clairlemon](datasets/clairlemon-deleted.md)
 
-7921 Deleted tweets for [imamofpeace](imamofpeace-deleted.md)
+118 Deleted tweets for [dissentcoach](datasets/dissentcoach-deleted.md)
 
-27 Deleted tweets for [patriotprayerus](patriotprayerus-deleted.md)
+21 Deleted tweets for [divas4trump](datasets/divas4trump-deleted.md)
 
-147 Deleted tweets for [pdxadamsfam](pdxadamsfam-deleted.md)
+89 Deleted tweets for [eoinlenihan](datasets/eoinlenihan-deleted.md)
 
-1335 Deleted tweets for [rambobiggs](rambobiggs-deleted.md) (Joe Biggs - ProudBoys)
+139 Deleted tweets for [fordfischer](datasets/fordfischer-deleted.md)
 
-39 Deleted tweets for [realhaleyadams1](realhaleyadams1-deleted.md) (Haley Adams)
+9 Deleted tweets for [gatestoneinst](datasets/gatestoneinst-deleted.md)
 
-185 Deleted tweets for [realhaleyadams](realhaleyadams-deleted.md) (Haley Adams)
+369 Deleted tweets for [gavinwax](datasets/gavinwax-deleted.md)
 
-69 Deleted tweets for [taralarosa](taralarosa-deleted.md)
+59 Deleted tweets for [hot_messpdx](datasets/hot_messpdx-deleted.md) (Haley Adams)
 
-548 Deleted tweets for [tpostmillennial](tpostmillennial-deleted.md)
+7921 Deleted tweets for [imamofpeace](datasets/imamofpeace-deleted.md)
 
-297 Deleted tweets for [uncensoredhaley](uncensoredhaley-deleted.md) (Haley Adams)
+27 Deleted tweets for [patriotprayerus](datasets/patriotprayerus-deleted.md)
 
-4438 Deleted tweets for [vivalahaley3](vivalahaley3-deleted.md) (Haley Adams)
+147 Deleted tweets for [pdxadamsfam](datasets/pdxadamsfam-deleted.md)
 
-1 Deleted tweets for [wester_haley](wester_haley-deleted.md) (Haley Adams)
+1335 Deleted tweets for [rambobiggs](datasets/rambobiggs-deleted.md) (Joe Biggs - ProudBoys)
 
-121 Deleted tweets for [jasonrantz](jasonrantz-deleted.md)
+39 Deleted tweets for [realhaleyadams1](datasets/realhaleyadams1-deleted.md) (Haley Adams)
 
-211 Deleted tweets for [jihadwatchrs](jihadwatchrs-deleted.md)
+185 Deleted tweets for [realhaleyadams](datasets/realhaleyadams-deleted.md) (Haley Adams)
 
-17470 Deleted tweets for [jonkay](jonkay-deleted.md)
+69 Deleted tweets for [taralarosa](datasets/taralarosa-deleted.md)
 
-141 Deleted tweets for [julio_rosas11](julio_rosas11-deleted.md)
+548 Deleted tweets for [tpostmillennial](datasets/tpostmillennial-deleted.md)
 
-1 Deleted tweets for [matthewtyrmand](matthewtyrmand-deleted.md)
+297 Deleted tweets for [uncensoredhaley](datasets/uncensoredhaley-deleted.md) (Haley Adams)
 
-58 Deleted tweets for [mike_macinnis51](mike_macinnis51-deleted.md)
+4438 Deleted tweets for [vivalahaley3](datasets/vivalahaley3-deleted.md) (Haley Adams)
 
-1 Deleted tweets for [n2sreports](n2sreports-deleted.md)
+1 Deleted tweets for [wester_haley](datasets/wester_haley-deleted.md) (Haley Adams)
 
-266 Deleted tweets for [nevercuck](nevercuck-deleted.md)
+121 Deleted tweets for [jasonrantz](datasets/jasonrantz-deleted.md)
 
-32 Deleted tweets for [offensecoach](offensecoach-deleted.md)
+211 Deleted tweets for [jihadwatchrs](datasets/jihadwatchrs-deleted.md)
 
-2659 Deleted tweets for [peterboghossian](peterboghossian-deleted.md)
+17470 Deleted tweets for [jonkay](datasets/jonkay-deleted.md)
 
-113 Deleted tweets for [peterbrimelow](peterbrimelow-deleted.md)
+141 Deleted tweets for [julio_rosas11](datasets/julio_rosas11-deleted.md)
 
-339 Deleted tweets for [pnjaban](pnjaban-deleted.md)
+1 Deleted tweets for [matthewtyrmand](datasets/matthewtyrmand-deleted.md)
 
-11695 Deleted tweets for [politicalshort](politicalshort-deleted.md)
+58 Deleted tweets for [mike_macinnis51](datasets/mike_macinnis51-deleted.md)
 
-152 Deleted tweets for [quillette](quillette-deleted.md)
+1 Deleted tweets for [n2sreports](datasets/n2sreports-deleted.md)
 
-9 Deleted tweets for [quillettem](quillettem-deleted.md)
+266 Deleted tweets for [nevercuck](datasets/nevercuck-deleted.md)
 
-2 Deleted tweets for [radixjournal](radixjournal_-deleted.md)
+32 Deleted tweets for [offensecoach](datasets/offensecoach-deleted.md)
 
-183 Deleted tweets for [realcandaceo](realcandaceo-deleted.md)
+2659 Deleted tweets for [peterboghossian](datasets/peterboghossian-deleted.md)
 
-5470 Deleted tweets for [realdavereilly](realdavereilly-deleted.md)
+113 Deleted tweets for [peterbrimelow](datasets/peterbrimelow-deleted.md)
 
-178 Deleted tweets for [rebekahrstevens](rebekahrstevens-deleted.md)
+339 Deleted tweets for [pnjaban](datasets/pnjaban-deleted.md)
 
-237 Deleted tweets for [revengecoach](revengecoach-deleted.md)
+11695 Deleted tweets for [politicalshort](datasets/politicalshort-deleted.md)
 
-133 Deleted tweets for [risencoach](risencoach-deleted.md)
+152 Deleted tweets for [quillette](datasets/quillette-deleted.md)
 
-46 Deleted tweets for [shelbytalcott](shelbytalcott-deleted.md)
+9 Deleted tweets for [quillettem](datasets/quillettem-deleted.md)
 
-32 Deleted tweets for [stephenm](stephenm-deleted.md)
+2 Deleted tweets for [radixjournal](datasets/radixjournal_-deleted.md)
 
-523 Deleted tweets for [teberniesanders](teberniesanders-deleted.md) (Haley Adams)
+183 Deleted tweets for [realcandaceo](datasets/realcandaceo-deleted.md)
 
-60 Deleted tweets for [terminalamerica](terminalamerica-deleted.md)
+5470 Deleted tweets for [realdavereilly](datasets/realdavereilly-deleted.md)
 
-63 Deleted tweets for [thelaurenchen](thelaurenchen-deleted.md)
+178 Deleted tweets for [rebekahrstevens](datasets/rebekahrstevens-deleted.md)
 
-156 Deleted tweets for [therealkeean](therealkeean-deleted.md)
+237 Deleted tweets for [revengecoach](datasets/revengecoach-deleted.md)
 
-2 Deleted tweets for [totalwarcoach](totalwarcoach-deleted.md)
+133 Deleted tweets for [risencoach](datasets/risencoach-deleted.md)
 
-1 Deleted tweets for [tulsigabbard](tulsigabbard-deleted.md)
+46 Deleted tweets for [shelbytalcott](datasets/shelbytalcott-deleted.md)
 
-1 Deleted tweets for [vishburra](vishburra-deleted.md)
+32 Deleted tweets for [stephenm](datasets/stephenm-deleted.md)
 
-10916 Deleted tweets for [aubrey_huff](aubrey_huff-deleted.md)
+523 Deleted tweets for [teberniesanders](datasets/teberniesanders-deleted.md) (Haley Adams)
 
-3 Deleted tweets for [bunkerwsmith](bunkerwsmith-deleted.md)
+60 Deleted tweets for [terminalamerica](datasets/terminalamerica-deleted.md)
 
-18 Deleted tweets for [Casper4Colorado](casper4colorado-deleted.md) (Joey Camp)
+63 Deleted tweets for [thelaurenchen](datasets/thelaurenchen-deleted.md)
 
-3 Deleted tweets for [countercurrents](countercurrents-deleted.md)
+156 Deleted tweets for [therealkeean](datasets/therealkeean-deleted.md)
 
-299 Deleted tweets for [darrenjbeattie](darrenjbeattie-deleted.md)
+2 Deleted tweets for [totalwarcoach](datasets/totalwarcoach-deleted.md)
 
-66 Deleted tweets for [iamjojo](iamjojo-deleted.md)
+1 Deleted tweets for [tulsigabbard](datasets/tulsigabbard-deleted.md)
 
-46 Deleted tweets for [juliahahntv](juliahahntv-deleted.md)
+1 Deleted tweets for [vishburra](datasets/vishburra-deleted.md)
 
-18 Deleted tweets for [KreuzZane](kreuzzane-deleted.md)
+10916 Deleted tweets for [aubrey_huff](datasets/aubrey_huff-deleted.md)
 
-56 Deleted tweets for [marcus_drusus](marcus_drusus-deleted.md)
+3 Deleted tweets for [bunkerwsmith](datasets/bunkerwsmith-deleted.md)
 
-2477 Deleted tweets for [mcneiljaden](mcneiljaden-deleted.md)
+18 Deleted tweets for [Casper4Colorado](datasets/casper4colorado-deleted.md) (Joey Camp)
 
-2 Deleted tweets for [MichaelKemps](michaelkemps-deleted.md)
+3 Deleted tweets for [countercurrents](datasets/countercurrents-deleted.md)
 
-271 Deleted tweets for [MichaelThomason](michaelthomason-deleted.md)
+299 Deleted tweets for [darrenjbeattie](datasets/darrenjbeattie-deleted.md)
 
-1414 Deleted tweets for [NommyCompany](nommycompany-deleted.md) (Joey Camp)
+66 Deleted tweets for [iamjojo](datasets/iamjojo-deleted.md)
 
-9890 Deleted tweets for [pamelageller](pamelageller-deleted.md)
+46 Deleted tweets for [juliahahntv](datasets/juliahahntv-deleted.md)
 
-610 Deleted tweets for [rondeaulivia](rondeaulivia-deleted.md)
+18 Deleted tweets for [KreuzZane](datasets/kreuzzane-deleted.md)
 
-3120 Deleted tweets for [RooshV](rooshv-deleted.md)
+56 Deleted tweets for [marcus_drusus](datasets/marcus_drusus-deleted.md)
 
-1 Deleted tweets for [srceryclub](srceryclub-deleted.md)
+2477 Deleted tweets for [mcneiljaden](datasets/mcneiljaden-deleted.md)
 
-338 Deleted tweets for [kyrstensinema](kyrstensinema-deleted.md)
+2 Deleted tweets for [MichaelKemps](datasets/michaelkemps-deleted.md)
 
-55 Deleted tweets for [YourDaddyJoey](yourdaddyjoey-deleted.md) (Joey Camp)
+271 Deleted tweets for [MichaelThomason](datasets/michaelthomason-deleted.md)
 
-71 Deleted tweets for [MikkiVonWeber](mikkivonweber-deleted.md) (Joey Camp)
+1414 Deleted tweets for [NommyCompany](datasets/nommycompany-deleted.md) (Joey Camp)
 
-33 Deleted tweets for [MikkiTheMime](mikkithemime-deleted.md) (Joey Camp)
+9890 Deleted tweets for [pamelageller](datasets/pamelageller-deleted.md)
 
-4598 Deleted tweets for [JoeyCamp2020](joeycamp2020-deleted.md) (Joey Camp)
+610 Deleted tweets for [rondeaulivia](datasets/rondeaulivia-deleted.md)
 
-153 Deleted tweets for [JoeyCamp20xx](joeycamp20xx-deleted.md) (Joey Camp)
+3120 Deleted tweets for [RooshV](datasets/rooshv-deleted.md)
 
-34 Deleted tweets for [IanCrossland](aancrossland-deleted.md)
+1 Deleted tweets for [srceryclub](datasets/srceryclub-deleted.md)
 
-704 Deleted tweets for [LibertarianBlue](libertarianblue-deleted.md)
+338 Deleted tweets for [kyrstensinema](datasets/kyrstensinema-deleted.md)
 
-1 Deleted tweets for [Ayaan](ayaan-deleted.md)
+55 Deleted tweets for [YourDaddyJoey](datasets/yourdaddyjoey-deleted.md) (Joey Camp)
 
-498 Deleted tweets for [TimRunsHisMouth](timrunshismouth-deleted.md)
+71 Deleted tweets for [MikkiVonWeber](datasets/mikkivonweber-deleted.md) (Joey Camp)
 
-12 Deleted tweets for [DouglasKMurray](douglaskmurray-deleted.md)
+33 Deleted tweets for [MikkiTheMime](datasets/mikkithemime-deleted.md) (Joey Camp)
 
-799 Deleted tweets for [roncoleman](roncoleman-deleted.md)
+4598 Deleted tweets for [JoeyCamp2020](datasets/joeycamp2020-deleted.md) (Joey Camp)
 
-60 Deleted tweets for [RubinReport](rubinreport-deleted.md)
+153 Deleted tweets for [JoeyCamp20xx](datasets/joeycamp20xx-deleted.md) (Joey Camp)
 
-16 Deleted tweets for [SuperHappyFunA](superhappyfuna-deleted.md)
+34 Deleted tweets for [IanCrossland](datasets/aancrossland-deleted.md)
 
-646 Deleted tweets for [Ron4California](ron4california-deleted.md)
+704 Deleted tweets for [LibertarianBlue](datasets/libertarianblue-deleted.md)
 
-1853 Deleted tweets for [CampJosephA](campjosepha-deleted.md)
+1 Deleted tweets for [Ayaan](datasets/ayaan-deleted.md)
 
-5232 Deleted tweets for [DaddySharkShark](daddysharkshark-deleted.md)
- 
-21 Deleted tweets for [FriendlyHombre](friendlyhombre-deleted.md)
- 
-19 Deleted tweets for [JojosSecurity](jojossecurity-deleted.md)
+498 Deleted tweets for [TimRunsHisMouth](datasets/timrunshismouth-deleted.md)
 
-425 Deleted tweets for [CierraFsModel](cierrafsmodel-deleted.md)
+12 Deleted tweets for [DouglasKMurray](datasets/douglaskmurray-deleted.md)
 
-49 Deleted tweets for [DreamKerosene](dreamkerosene-deleted.md)
+799 Deleted tweets for [roncoleman](datasets/roncoleman-deleted.md)
 
-3 Deleted tweets for [20campjoey20](20campjoey20-deleted.md)
+60 Deleted tweets for [RubinReport](datasets/rubinreport-deleted.md)
+
+16 Deleted tweets for [SuperHappyFunA](datasets/superhappyfuna-deleted.md)
+
+646 Deleted tweets for [Ron4California](datasets/ron4california-deleted.md)
+
+1853 Deleted tweets for [CampJosephA](datasets/campjosepha-deleted.md)
+
+5232 Deleted tweets for [DaddySharkShark](datasets/daddysharkshark-deleted.md)
+
+21 Deleted tweets for [FriendlyHombre](datasets/friendlyhombre-deleted.md)
+
+19 Deleted tweets for [JojosSecurity](datasets/jojossecurity-deleted.md)
+
+425 Deleted tweets for [CierraFsModel](datasets/cierrafsmodel-deleted.md)
+
+49 Deleted tweets for [DreamKerosene](datasets/dreamkerosene-deleted.md)
+
+3 Deleted tweets for [20campjoey20](datasets/20campjoey20-deleted.md)
+
 
 
 
