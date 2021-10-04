@@ -33,6 +33,15 @@ All data was gathered from the [Wayback Machine](https://archive.org/web/) over 
 
 Most of this process is automated using tools from the [cancel-culture](https://github.com/travisbrown/cancel-culture) project.
 
+## Related Projects
+
+[cancel-culture](https://github.com/travisbrown/cancel-culture)
+
+[Evasion](https://github.com/travisbrown/evasion)
+
+[deleted-tweets](https://github.com/travisbrown/deleted-tweets)
+
+
 ## Datasets
 
 The current dataset now includes 399,805 distinct deleted or unavailable tweets, from 183 twitter accounts scraped.
