@@ -1,6 +1,10 @@
 ## Joey Camp (Joseph Anthony Camp)
 
 
+Joey Camp related twitter account files have been pulled temporarily for review
+
+
+
 1853 Deleted tweets for [CampJosephA](datasets/campjosepha-deleted.md)
 
 18 Deleted tweets for [Casper4Colorado](datasets/casper4colorado-deleted.md)
