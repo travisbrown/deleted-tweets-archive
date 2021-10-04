@@ -1,7 +1,7 @@
 ## Joey Camp (Joseph Anthony Camp)
 
 
-Joey Camp related twitter account files have been pulled temporarily for review
+Some Joey Camp related twitter account files have been pulled temporarily for review
 
 
 
