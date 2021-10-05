@@ -422,8 +422,8 @@ The current dataset now includes 536,132	 distinct deleted or unavailable tweets
 
 3 Deleted tweets for [20campjoey20](datasets/20campjoey20-deleted.md)
 
-136327 Deleted tweets for [CassandraRules Part 1](cassandrarules-deleted1.md)
+136327 Deleted tweets for [CassandraRules Part 1](datasets/cassandrarules-deleted1.md)
 
-136327 Deleted tweets for [CassandraRules Part 2](cassandrarules-deleted2.md)
+136327 Deleted tweets for [CassandraRules Part 2](datasets/cassandrarules-deleted2.md)
 
 
