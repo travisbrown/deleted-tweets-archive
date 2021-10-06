@@ -122,7 +122,7 @@ The current dataset now includes 536,132	 distinct deleted or unavailable tweets
 
 71 Deleted tweets for [Daniel_Friberg](datasets/daniel_friberg-deleted.md) (Arktos Media - one of the coordinators of unite the right - https://www.splcenter.org/hatewatch/2017/09/26/identity-evropa-and-arktos-media-%E2%80%94-likely-bedfellows)
 
-11269 Deleted tweets for [Cernovich](datasets/cernovich-deleted.md)
+11,269 Deleted tweets for [Cernovich](datasets/cernovich-deleted.md)
 
 9748 Deleted tweets for [TheRalphRetort](datasets/theralphretort-deleted.md)
 
@@ -162,7 +162,7 @@ The current dataset now includes 536,132	 distinct deleted or unavailable tweets
 
 3719 Deleted tweets for [stone_toss](datasets/stone_toss-deleted.md) (https://twitter.com/WhiteRoseAFA/status/1442588715008757761?s=20)
 
-34069 Deleted tweets for [realalexjones](datasets/realalexjones-deleted.md)
+34,069 Deleted tweets for [realalexjones](datasets/realalexjones-deleted.md)
 
 2440 Deleted tweets for [vdare](datasets/vdare-deleted.md)
 
@@ -178,7 +178,7 @@ The current dataset now includes 536,132	 distinct deleted or unavailable tweets
 
 4415 Deleted tweets for [johntiegen](datasets/johntiegen-deleted.md)
 
-19165 Deleted tweets for [drdavidduke](datasets/drdavidduke-deleted.md) (Republican Politician (LA), UTR, Former Grand Dragon of the KKK)
+19,165 Deleted tweets for [drdavidduke](datasets/drdavidduke-deleted.md) (Republican Politician (LA), UTR, Former Grand Dragon of the KKK)
 
 9490 Deleted tweets for [oathkeepers](datasets/oathkeepers-deleted.md)
 
@@ -224,13 +224,13 @@ The current dataset now includes 536,132	 distinct deleted or unavailable tweets
 
 40 Deleted tweets for [unblockedlive](datasets/unblockedlive-deleted.md)
 
-10029 Deleted tweets for [KeithWoodsYT](datasets/keithwoodsyt-deleted.md)
+10,029 Deleted tweets for [KeithWoodsYT](datasets/keithwoodsyt-deleted.md)
 
 3069 Deleted tweets for [TrumpRussiaHits](datasets/trumprussiahits-deleted.md)
 
 72451 Deleted tweets for [JackPosobiec](datasets/jackposobiec-deleted.md)
 
-38236 Deleted tweets for [LouiseMensch](datasets/louisemensch-deleted.md)
+38,236 Deleted tweets for [LouiseMensch](datasets/louisemensch-deleted.md)
 
 85 Deleted tweets for [amrenaissance](datasets/amrenaissance-deleted.md)
 
@@ -288,7 +288,7 @@ The current dataset now includes 536,132	 distinct deleted or unavailable tweets
 
 211 Deleted tweets for [jihadwatchrs](datasets/jihadwatchrs-deleted.md)
 
-17470 Deleted tweets for [jonkay](datasets/jonkay-deleted.md)
+17,470 Deleted tweets for [jonkay](datasets/jonkay-deleted.md)
 
 141 Deleted tweets for [julio_rosas11](datasets/julio_rosas11-deleted.md)
 
@@ -422,8 +422,18 @@ The current dataset now includes 536,132	 distinct deleted or unavailable tweets
 
 3 Deleted tweets for [20campjoey20](datasets/20campjoey20-deleted.md)
 
-136327 Deleted tweets for [CassandraRules Part 1](datasets/cassandrarules-deleted1.md)
+136,327 Deleted tweets for [CassandraRules Part 1](datasets/cassandrarules-deleted1.md)
 
-136327 Deleted tweets for [CassandraRules Part 2](datasets/cassandrarules-deleted2.md)
+136,327 Deleted tweets for [CassandraRules Part 2](datasets/cassandrarules-deleted2.md)
 
+20,614 Deleted tweets for [TheQuartering](datasets/thequartering-deleted.md)
 
+5262 Deleted tweets for [ChristinaPushaw](datasets/christinapushaw-deleted.md)
+
+802 Deleted tweets for [MsBlaireWhite](datasets/msblairewhite-deleted.md)
+
+18 Deleted tweets for [HeatherEHeying](datasets/heathereheying-deleted.md)
+
+34 Deleted tweets for [AdamCrigler](datasets/adamcrigler-deleted.md)
+
+7 Deleted tweets for [Dear_Mr_Putin](datasets/dear_mr_putin-deleted.md)
