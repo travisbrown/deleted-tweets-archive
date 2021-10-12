@@ -442,3 +442,6 @@ The current dataset now includes 563,811 distinct deleted or unavailable tweets,
 
 855 Deleted tweets for [ACTBrigitte](datasets/actbrigitte-deleted.md)
 
+249 Deleted tweets for [ACTforAmerica](datasets/actforamerica-deleted.md)
+
+
