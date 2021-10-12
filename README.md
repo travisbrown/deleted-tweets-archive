@@ -440,5 +440,5 @@ The current dataset now includes 563,811 distinct deleted or unavailable tweets,
 
 87 Deleted tweets for [DrPaulGosar](datasets/drpaulgosar-deleted.md)
 
-855 Deleted tweets for [ACTBrigitte-deleted.md](datasets/actbrigitte-deleted.md)
+855 Deleted tweets for [ACTBrigitte](datasets/actbrigitte-deleted.md)
 
